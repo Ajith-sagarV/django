@@ -1,0 +1,102 @@
+[
+    {
+        "model": "drf.menuitem",
+        "pk": 1,
+        "fields": {
+            "title": "Cheeseburger",
+            "price": "9.99",
+            "featured": true,
+            "category": 1
+        }
+    },
+    {
+        "model": "drf.menuitem",
+        "pk": 2,
+        "fields": {
+            "title": "Veggie Pizza",
+            "price": "12.50",
+            "featured": false,
+            "category": 2
+        }
+    },
+    {
+        "model": "drf.menuitem",
+        "pk": 3,
+        "fields": {
+            "title": "Caesar Salad",
+            "price": "7.99",
+            "featured": true,
+            "category": 2
+        }
+    },
+    {
+        "model": "drf.menuitem",
+        "pk": 4,
+        "fields": {
+            "title": "Grilled Chicken",
+            "price": "10.99",
+            "featured": false,
+            "category": 5
+        }
+    },
+    {
+        "model": "drf.menuitem",
+        "pk": 5,
+        "fields": {
+            "title": "Chocolate Cake",
+            "price": "6.50",
+            "featured": true,
+            "category": 8
+        }
+    },
+    {
+        "model": "drf.menuitem",
+        "pk": 6,
+        "fields": {
+            "title": "Iced Latte",
+            "price": "4.50",
+            "featured": false,
+            "category": 6
+        }
+    },
+    {
+        "model": "drf.menuitem",
+        "pk": 7,
+        "fields": {
+            "title": "Spaghetti Bolognese",
+            "price": "11.99",
+            "featured": true,
+            "category": 3
+        }
+    },
+    {
+        "model": "drf.menuitem",
+        "pk": 8,
+        "fields": {
+            "title": "Fish and Chips",
+            "price": "13.99",
+            "featured": false,
+            "category": 5
+        }
+    },
+    {
+        "model": "drf.menuitem",
+        "pk": 9,
+        "fields": {
+            "title": "Mango Smoothie",
+            "price": "5.99",
+            "featured": true,
+            "category": 6
+        }
+    },
+    {
+        "model": "drf.menuitem",
+        "pk": 10,
+        "fields": {
+            "title": "Tiramisu",
+            "price": "8.50",
+            "featured": false,
+            "category": 8
+        }
+    }
+]
